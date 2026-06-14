@@ -66,7 +66,7 @@ python app.py
 
 * Crop Disease Detection using Image Upload
 * MobileNetV2-based Disease Classification
-* Telugu Language Support
+* Native Language Support
 * Voice-Based Farming Assistant
 * Mobile Application Integration
 
